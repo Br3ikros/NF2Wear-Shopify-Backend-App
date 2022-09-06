@@ -1,0 +1,23 @@
+{
+  "name": "nodeshopifyngrok",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node  --expose-gc index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@shopify/shopify-api": "^2.1.0",
+    "body-parser": "^1.19.1",
+    "crypto": "^1.0.1",
+    "deepai": "^1.0.21",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "firebase-admin": "^10.0.2",
+    "nodemon": "^2.0.15",
+    "raw-body": "^2.4.3",
+    "sharp": "^0.30.2"
+  }
+}

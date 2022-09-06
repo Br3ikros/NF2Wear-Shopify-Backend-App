@@ -1,0 +1,36 @@
+{
+    "mockups":[
+    {
+        "color": "White",
+        "link": "https://cdn.shopify.com/s/files/1/0605/4251/7430/products/unisex-staple-t-shirt-white-front-62457411bd035_720x.jpg?v=1648718889"
+    },
+    {
+        "color": "Black",
+        "link": "https://cdn.shopify.com/s/files/1/0605/4251/7430/products/unisex-staple-t-shirt-black-front-62457411b517c_720x.jpg?v=1648718877"
+    },
+    {
+        "color": "Red",
+        "link": "https://cdn.shopify.com/s/files/1/0605/4251/7430/products/unisex-staple-t-shirt-red-front-62457411b634c_720x.jpg?v=1648718880"
+    },
+    {
+        "color": "Navy",
+        "link": "https://cdn.shopify.com/s/files/1/0605/4251/7430/products/unisex-staple-t-shirt-navy-front-62457411b583f_720x.jpg?v=1648718879"
+    },
+    {
+        "color": "Light Blue",
+        "link": "https://cdn.shopify.com/s/files/1/0605/4251/7430/products/unisex-staple-t-shirt-light-blue-front-62457411bb7a6_720x.jpg?v=1648718888"
+    },
+    {
+        "color": "Pink",
+        "link": "https://cdn.shopify.com/s/files/1/0605/4251/7430/products/unisex-staple-t-shirt-pink-front-62457411b8a3f_720x.jpg?v=1648718884"
+    },
+    {
+        "color": "Dark Grey Heather",
+        "link": "https://cdn.shopify.com/s/files/1/0605/4251/7430/products/unisex-staple-t-shirt-dark-grey-heather-front-62457411b75af_720x.jpg?v=1648718882"
+    },
+    {
+        "color": "Athletic Heather",
+        "link": "https://cdn.shopify.com/s/files/1/0605/4251/7430/products/unisex-staple-t-shirt-athletic-heather-front-62457411b9f3f_720x.jpg?v=1648718886"
+    }
+]
+}
